@@ -18,7 +18,7 @@ Hi there! 👋 I'm **Joseph Hinga**, a passionate **Data Scientist and Analyst**
 
 | Category         | Tools / Languages                                   |
 |------------------|-----------------------------------------------------|
-| Programming      | Python, R (basic), DAX, SQL                         |
+| Programming      | Python, DAX, SQL                         |
 | Data Analysis    | Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn    |
 | BI & Reporting   | Microsoft Power BI, Excel (PivotTables, VBA)        |
 | Databases        | MySQL, PostgreSQL, SQLite                           |
@@ -30,16 +30,13 @@ Hi there! 👋 I'm **Joseph Hinga**, a passionate **Data Scientist and Analyst**
 
 ## 📌 Featured Projects
 
-### 🥇 [Retail Sales Analytics Dashboard (Power BI)](https://github.com/YOUR_USERNAME/retail-sales-powerbi)
-> Visualized multi-category sales data with filters for time, category, and region. Identified top-selling products and revenue trends.
-
 ### 📈 [Customer Churn Prediction (Python & ML)](https://github.com/YOUR_USERNAME/customer-churn-ml)
 > Built an end-to-end ML model to predict customer churn using logistic regression and decision trees. Achieved 87% accuracy.
 
 ### 🧼 [Data Cleaning and EDA (Kenya Rental Dataset)](https://github.com/YOUR_USERNAME/kenya-rental-eda)
 > Cleaned and analyzed housing data in Nairobi using pandas and seaborn. Revealed location-based pricing insights.
 
-### 🧠 [ML Model for Supplement Sales Forecast](https://github.com/YOUR_USERNAME/supplement-sales-forecast)
+### 🧠 [ML Model for Introvert & Extrovert Personality](https://github.com/YOUR_USERNAME/supplement-sales-forecast)
 > Performed EDA and built a time-series forecast model to predict weekly sales of supplements using Prophet and ARIMA.
 
 > ✅ *More projects available on my repositories — check them out!*
