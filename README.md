@@ -1,59 +1,89 @@
-# 👨‍💻 Joseph Hinga | Data Analyst | Data Scientist
+# 👨‍💻 Joseph Hinga | Data Analyst | Data Scientist | ML & AI Enthusiast
 
-Hi there! 👋 I'm **Joseph Hinga**, a passionate **Data Scientist and Analyst** with hands-on experience in Python, Excel, Power BI, SQL databases, Machine Learning, and AI. I turn raw data into impactful stories and insights, helping businesses make data-driven decisions.
+Hi there! 👋 I'm **Joseph Hinga**, a passionate **Data Scientist** and **Data Analyst** who thrives at the intersection of data, business, and intelligent automation. I transform raw data into meaningful insights and smart predictions using Python, Power BI, SQL and Machine Learning.
 
 ---
 
 ## 🧠 About Me
 
--  Specialized in **Exploratory Data Analysis (EDA)** and **predictive modeling**
--  Proficient in **machine learning workflows**, from preprocessing to model deployment
--  Comfortable working with **Power BI**, Excel dashboards, and data visualization tools
--  Experienced in **SQL databases**, data cleaning, transformation, and management
-- Curious about the intersection of **AI**, **automation**, and **business analytics**
+- 🔍 Specialized in **Exploratory Data Analysis (EDA)**, data storytelling & business reporting  
+- 🤖 Experienced in **Machine Learning**, including model training, tuning & deployment  
+- 📊 Skilled in **Power BI dashboards**, KPI tracking, and Excel automation  
+- 🗃️ Strong SQL skills in data wrangling, transformation, and query optimization  
+- 💡 Curious about the future of **AI**, **generative models**, and **data-driven automation**
 
 ---
 
-## 🔧 Tools & Technologies
+## 🚀 Tech Stack
 
-| Category         | Tools / Languages                                   |
-|------------------|-----------------------------------------------------|
-| Programming      | Python, DAX, SQL                         |
-| Data Analysis    | Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn    |
-| BI & Reporting   | Microsoft Power BI, Excel (PivotTables, VBA)        |
-| Databases        | MySQL, PostgreSQL, SQLite                           |
-| Machine Learning | Scikit-learn, XGBoost, LightGBM                     |
-| Workflow & Dev   | Git, GitHub, Jupyter Notebook, VS Code              |
-| Others           | APIs, Web Scraping (BeautifulSoup, Requests)       |
+### 📊 Data Analyst
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🧠 Data Scientist
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF8000?style=for-the-badge)
+![LightGBM](https://img.shields.io/badge/LightGBM-000000?style=for-the-badge)
+
+### 🤖 AI & ML Enthusiast
+![Prophet](https://img.shields.io/badge/Prophet-0081CB?style=for-the-badge)
+![ARIMA](https://img.shields.io/badge/ARIMA-000000?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B0082?style=for-the-badge)
+![APIs](https://img.shields.io/badge/APIs-0052CC?style=for-the-badge)
+
+### 💼 Dev & Workflow
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+## 🧠 Domain-Based Project Highlights
+
+| Domain          | Projects |
+|----------------|----------|
+| **Business Analysis** | Power BI Dashboards, Excel Reports |
+| **Machine Learning** | Churn Prediction, Personality Classifier |
+| **Time Series & Forecasting** | Supplement Sales, Retail Demand |
+| **Data Cleaning & EDA** | Kenya Rentals, CSV Web Scraper |
+| **AI Explorations** | LLM Chatbot Prototype *(in progress)* |
 
 ---
 
-## 📌 Featured Projects
+## 📚 What I’m Learning Now
 
-### 📈 [Customer Churn Prediction (Python & ML)](https://github.com/YOUR_USERNAME/customer-churn-ml)
-> Built an end-to-end ML model to predict customer churn using logistic regression and decision trees. Achieved 87% accuracy.
-
-### 🧼 [Data Cleaning and EDA (Kenya Rental Dataset)](https://github.com/YOUR_USERNAME/kenya-rental-eda)
-> Cleaned and analyzed housing data in Nairobi using pandas and seaborn. Revealed location-based pricing insights.
-
-### 🧠 [ML Model for Introvert & Extrovert Personality](https://github.com/YOUR_USERNAME/supplement-sales-forecast)
-> Performed EDA and built a time-series forecast model to predict weekly sales of supplements using Prophet and ARIMA.
-
-> ✅ *More projects available on my repositories — check them out!*
-
+- 🧠 Deep Dive into **Machine Learning Ops (MLflow, model tracking)**  
+- ⚙️ Exploring **LangChain & Generative AI workflows**  
+- 📈 Advanced **DAX for Power BI** and custom visual storytelling
 
 ---
 
-## 📫 Let's Connect
+## 🔗 Connect with Me
 
-- 📧 **Email:** hingamwangijoseph@gmail.com
-- 🌐 **Portfolio Website:** [Coming Soon]
+| Platform     | Link |
+|--------------|------|
+| 📧 Email      | hingamwangijoseph@gmail.com |
+| 💼 LinkedIn   | [linkedin.com/in/josephhinga](https://linkedin.com/in/josephhinga) |
+| 🧠 Portfolio  | *Coming Soon* |
+| 💾 GitHub     | [github.com/JosephHinga](https://github.com/JosephHinga) |
+| 📄 Resume     | [Download PDF](https://drive.google.com/YOUR_RESUME_LINK) *(optional)* |
 
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JosephHinga&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br>
+</p>
 
 ---
 
 > _“When data speaks, decisions get smarter.”_
 
-Thanks for stopping by! Feel free to connect, collaborate, or just say hello 👋
-
-
+Thanks for visiting — let's connect, collaborate, or build something cool together! 🚀
